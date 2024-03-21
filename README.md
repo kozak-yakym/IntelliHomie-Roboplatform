@@ -31,6 +31,10 @@ This open-source initiative is a dedicated robotic platform that forms a key par
 
 The IntelliHomie-Roboplatform is crafted to seamlessly integrate with the IntelliHomie smart home system, extending its capabilities to include advanced robotics. It offers a modular and scalable foundation for building a wide range of robotic solutions.
 
+## Current Status
+Currently, the project is in the development phase, with a beta version on the horizon. The system's architecture is modular, allowing for flexible enhancements and integrations. It features a central hub that orchestrates a fleet of home robots, each equipped with capabilities such as sophisticated navigation, precise task execution, and a robust testing environment for firmware and neural networks. Documentation is continuously updated to reflect the system's evolution and ease of integration with existing smart home ecosystems.
+More detailed status can be found on the [Kanban board of our project](https://github.com/users/kozak-yakym/projects/1).
+
 ## Components
 
 ### Mechanics
