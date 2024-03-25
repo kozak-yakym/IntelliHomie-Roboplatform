@@ -41,6 +41,8 @@ More detailed status can be found on the [Kanban board of our project](https://g
 - **Function:** Provides the physical structure and movement capabilities for the robot.
 - **Interaction:** Works in tandem with the Electronics and Firmware to execute precise movements.
 
+[See our Wiki page.](https://github.com/kozak-yakym/IntelliHomie-Roboplatform/wiki/Mechanics)
+
 ### Electronics
 - **Function:** Powers the robot's hardware and enables communication between different components.
 - **Interaction:** Interfaces with the Firmware to translate software commands into hardware actions.
