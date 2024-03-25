@@ -1,0 +1,17 @@
+# Ignore compiled files
+*.net
+
+# Ignore backup files
+intellihomie-roboplatform-backups/
+*~
+*.lck
+\#auto_saved_files\#
+
+
+# Ignore cache files
+fp-info-cache
+
+# Ignore KiCad library files
+sym-lib-table
+Libs/*.bak
+
