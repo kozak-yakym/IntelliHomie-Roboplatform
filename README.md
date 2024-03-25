@@ -45,6 +45,8 @@ More detailed status can be found on the [Kanban board of our project](https://g
 - **Function:** Powers the robot's hardware and enables communication between different components.
 - **Interaction:** Interfaces with the Firmware to translate software commands into hardware actions.
 
+[See our Wiki page.](https://github.com/kozak-yakym/IntelliHomie-Roboplatform/wiki/Electronics)
+
 ### Firmware
 The Firmware is the low-level software that directly interacts with the robot's hardware.
 
