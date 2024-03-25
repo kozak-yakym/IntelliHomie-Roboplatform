@@ -69,7 +69,7 @@ The Firmware is the low-level software that directly interacts with the robot's 
 - **Interaction:** Works with all modules to optimize power usage.
 
 # Installation
-*Currently under development.* Detailed installation and configuration instructions will be provided upon completion. For updates and more information, please refer to the Wiki.
+*Currently under development.* Detailed installation and configuration instructions will be provided upon completion. For updates and more information, please refer to the [Wiki](https://github.com/kozak-yakym/IntelliHomie-Roboplatform/wiki).
 
 # Usage
 *Currently under development.* Examples of how to use the main features will be available soon. For more details, check the Wiki.
