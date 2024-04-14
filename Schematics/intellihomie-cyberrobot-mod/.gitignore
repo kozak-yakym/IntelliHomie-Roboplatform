@@ -6,6 +6,7 @@ intellihomie-roboplatform-backups/
 *~
 *.lck
 \#auto_saved_files\#
+_autosave*
 
 
 # Ignore cache files
